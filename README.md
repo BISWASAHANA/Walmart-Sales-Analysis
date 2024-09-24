@@ -1,0 +1,1 @@
+This repository contains files related to analysis of Walmart Sales. The dataset is also included in here. A Microsoft Power BI dashboard lets intuitively visualize the sales and the factors such as unemployment, fuel price and temperature.
